@@ -1,0 +1,11 @@
+project Build extends "avr_app" is  
+	
+   for Main use ("controller");    
+         	
+   for Object_Dir use "obj";            
+   for Exec_Dir use ".";              
+   for Source_Dirs use (".");
+
+   for Source_Files use ("controller.adb", "adc.adb", "adc.ads", "lcd.ads", "lcd.adb", "lcd-wiring.ads", "timer.adb","timer.ads", "safety.adb", 			"safety.ads", "led.adb", "led.ads"); 
+end Build;
+
