@@ -1,6 +1,3 @@
-t
-
-
 # AVR-Ada-HRM
 AVR-ADA used to develop a HRM Prototype,
 
