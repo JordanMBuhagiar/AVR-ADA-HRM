@@ -1,4 +1,4 @@
-t
+tt
 
 
 # AVR-Ada-HRM
@@ -14,7 +14,7 @@ Additionally, the controller has an Algorithm introduced as part of a Thesis cal
 
 Furthermore, the code has been designed to control the way the user interacts with the Sensor - A safety mechanism was applied.
 
-Unless the system detects a peak, it will not execute. Thus, will run for a 10 second time frame as long as the peaks are being detected, otherwise it will wait for the user to position the sensor once again and proceed from the las timer count, preventing false values and enforcing reliability regarding system feedback. 
+Unless the system detects a peak, it will not execute. Thus, will run for a 10 second time frame as long as the peaks are being detected, otherwise it will wait for the user to position the sensor once again and proceed from the last timer count, preventing false values and enforcing reliability regarding system feedback. 
 
 The Thesis (DissertationComputerScienceComplete.pdf) withholds a step-by-step Tutorial on how to install AVR-ADA under a linux distribution. A tutorial that has been tested on 2 separate Linux Ubuntu Distros to enforce consistency via error prevention/elimination. 
 
