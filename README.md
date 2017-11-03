@@ -1,11 +1,14 @@
 
 
+
 # AVR-Ada-HRM
 AVR-ADA used to develop a HRM Prototype,
 
 For complete code, follow system intelligence folder.
 
-System withholds an ATMega328P and code is written to initialize the following: ADC, Timer1 - CTC Mode and LCD in 4 Bit Mode.
+System withholds an ATMega328P and code is written to initialize the following: 
+
+                                          ADC, Timer1 - CTC Mode and LCD in 4 Bit Mode.
 
 Additionally, the controller has an Algorithm introduced as part of a Thesis called Thresh Peak Algorithm to detect the pulses.
 
