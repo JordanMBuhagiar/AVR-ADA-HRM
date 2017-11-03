@@ -16,7 +16,7 @@ The Thesis (DissertationComputerScienceComplete.pdf) withholds a step-by-step Tu
 
 The thesis withholds an effective project management approach useful in multiple/ if not all real world projects, known as the Iterative Model. 
 
-Additionally, the thesis thoroughly outlines the authors personality and problem solving atitude.
+Additionally, the thesis thoroughly outlines the authors personality as well as problem solving mindset.
 
 For further information or queries, contact me on:
 # jordanleemauro@gmail.com
