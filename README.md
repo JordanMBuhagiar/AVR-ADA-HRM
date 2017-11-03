@@ -18,6 +18,8 @@ Unless the system detects a peak, it will not execute. Thus, will run for a 10 s
 
 The Thesis (Ada on 8Bit Micros - Thesis - AVR-Ada Installation Tutorial.pdf) withholds a step-by-step Tutorial on how to install AVR-ADA under a linux distribution. A tutorial that has been tested on 2 separate Linux Ubuntu Distros to enforce consistency via error prevention/elimination. 
 
+PS. This tutorial encompasses a novel approach and guideline to Ada Integration on 8 Bit Microcontrollers.
+
 The thesis withholds an effective project management approach useful in multiple/ if not all real world projects, known as the Iterative Model. 
 
 Additionally, the thesis thoroughly outlines the authors personality as well as problem solving mindset.
