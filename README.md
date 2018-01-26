@@ -26,3 +26,17 @@ For further information or queries, contact me on:
 or
 # jordan.mauro.buhagiar@hotmail.com
 Brief Example of System: https://www.youtube.com/watch?v=Gi0kifZC3F8
+
+Complete guide available in Amazon.co.uk or amazon.com - Available in Kindle Edition or Paperback:
+
+# Real Time Critical Systems 
+
+# Kindle - https://www.amazon.co.uk/Real-Time-Critical-Systems-Prototype-Integration-ebook/dp/B07986YGNM/ref=sr_1_1?ie=UTF8&qid=1516983899&sr=8-1&keywords=realtime+critical+systems
+
+# Paperback - https://www.amazon.co.uk/dp/1984171992/ref=sr_1_2?ie=UTF8&qid=1516983899&sr=8-2&keywords=realtime+critical+systems
+
+Amazon.com:
+
+# Kindle - https://www.amazon.com/Real-Time-Critical-Systems-Prototype-Integration-ebook/dp/B07986YGNM/ref=sr_1_2?ie=UTF8&qid=1516984025&sr=8-2&keywords=real+time+critical+systems
+
+# Paperback - https://www.amazon.com/dp/1984171992/ref=sr_1_1?ie=UTF8&qid=1516983986&sr=8-1&keywords=real+time+critical+systems
